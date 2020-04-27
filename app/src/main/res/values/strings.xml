@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PermissionX</string>
+    <string name="permission_setting">权限设置</string>
 </resources>
